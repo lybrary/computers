@@ -1,5 +1,9 @@
 # Curriculum proposal
 
+This curriculum provide an ordered, and structured timeline of learning. Each section itself should be atomic with minimal links to other sections. Each section should be as concise and simple as possible while still tackling the meat.
+
+The curriculum should also be as small as possible to ensure that it's implementation is achievable. Before adding, consider removing or modifying existing portions.
+
 * Software and Hardware
   * What's the difference?
   * Hardware
